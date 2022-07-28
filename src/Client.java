@@ -136,7 +136,7 @@ public class Client {
 					//System.out.println("Movie updated!");
 					continue;
 				}
-				//Search for a movie via movie_name
+				//Search for a movie via movie name
 				else if(i1==6)
 				{
 					moviesDAO mdao=new moviesDAO();
